@@ -17,7 +17,7 @@ I built an interactive Excel dashboard to help HR managers understand exactly wh
 
 3. Key Business Insights
 
-. High Turnover in Sales:** Sales Representatives are leaving at a rate of nearly 40%, which is massively higher than the company average of 16%. The company needs to focus heavily on retention strategies specifically for the Sales team.
+. High Turnover in Sales: Sales Representatives are leaving at a rate of nearly 40%, which is massively higher than the company average of 16%. The company needs to focus heavily on retention strategies specifically for the Sales team.
 
 . The Work-Life Balance "Sweet Spot": Employees who rate their work-life balance as terrible (Level 1) leave the fastest (31%). Surprisingly, the most loyal employees aren't at Level 4—they are at Level 3, with only a 14% turnover rate. Aiming for a "good" balance is actually more effective for retention than forcing a "perfect" one.
 
